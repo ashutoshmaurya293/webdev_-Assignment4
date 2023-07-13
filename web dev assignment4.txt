@@ -1,0 +1,25 @@
+Q.1 Explain Hoisting in JavaScript
+Answer: Hoisting is JavaScript’s default behavior of moving all declarations to the top of the current scope and In other words, a variable can be used before it has been declared and However, let and const variables are not hoisted
+Q.2 Explain Temporal Dead Zone?
+Answer: the Temporal Dead Zone is the period of time during which the let and const declarations cannot be accessed
+Q.3 Difference between var & let?
+Answer: var is function scoped or global scoped, meaning it can be accessed outside of the block where it is declared
+and let is block scoped, meaning it can only be accessed within the block where it is declared
+Q.4 What are the major features introduced in ECMAScript 6?
+Answer: these are some fature in  ECMAScript 6 let and const keywords for block-scoped variables.
+Arrow functions for shorter function syntax and Classes for object-oriented programming and Template literals for string interpolation 
+Q.5 What is the difference between let and const ?
+Answer: let and const are both variable declaration in javaScript let is used to declare a variable whose value can be changed later and const is used to declare a variable whose value cannot be changed.
+Q.6  What is template literals in ES6 and how do you use them?
+Answer: template literals are a new Feature introduced in ECMAScript 2015/ ES6 and They provide an easy way to create multiline strings and perform string interpolation
+Q.7 What’s difference between map & forEach?
+Answer: map method to create a new array with each number doubled and  map method returns a new array by applying the callback function on each element of an array and forEach method doesn’t return anything You can use the forEach method to mutate the source array
+Q.8 How can you destructure objects and arrays in ES6?
+Answer: The Object type represents one of JavaScript's data types and It is used to store various keyed collections and more complex entities
+Q.9 How can you define default parameter values in ES6 functions?
+Answer: In ES6, we can define default parameter values for functions by using the equals sign and the default value you want to assign to the parameter
+Q.10 What is the purpose of the spread operator (...) in ES6?
+Answer:The spread operator (...) is a new feature introduced in ECMAScript6 It allows an iterable (like an array or a string) to be expanded into individual elements
+
+
+
